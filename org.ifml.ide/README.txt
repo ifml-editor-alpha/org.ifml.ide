@@ -5,7 +5,7 @@
   * Modeling > Graphical Modeling Framework (GMF) Tooling SDK
   * Modeling > Graphiti SDK Plus (Incubation)
   * Modeling > Graphical Editing Framework Zest Visualization Toolkit SDK
-  * Collaboration > Eclipse 
+  * Collaboration > Eclipse EGit
 * Restart Eclipse
 * Import into the workspace all the projects on https://github.com/ifml-editor-alpha
 * Run > Run Configurations... > Eclipse Application
